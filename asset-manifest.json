@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/nomadcafe-design-test-result-gh/static/css/main.e9cdabd6.css",
-    "main.js": "/nomadcafe-design-test-result-gh/static/js/main.c9e6d9f3.js",
+    "main.js": "/nomadcafe-design-test-result-gh/static/js/main.e7617b19.js",
     "static/js/787.0c7709b3.chunk.js": "/nomadcafe-design-test-result-gh/static/js/787.0c7709b3.chunk.js",
     "static/media/test_check_img_0.jpg": "/nomadcafe-design-test-result-gh/static/media/test_check_img_0.9d247d546fc941c94668.jpg",
     "index.html": "/nomadcafe-design-test-result-gh/index.html",
     "main.e9cdabd6.css.map": "/nomadcafe-design-test-result-gh/static/css/main.e9cdabd6.css.map",
-    "main.c9e6d9f3.js.map": "/nomadcafe-design-test-result-gh/static/js/main.c9e6d9f3.js.map",
+    "main.e7617b19.js.map": "/nomadcafe-design-test-result-gh/static/js/main.e7617b19.js.map",
     "787.0c7709b3.chunk.js.map": "/nomadcafe-design-test-result-gh/static/js/787.0c7709b3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e9cdabd6.css",
-    "static/js/main.c9e6d9f3.js"
+    "static/js/main.e7617b19.js"
   ]
 }
